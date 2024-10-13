@@ -1,0 +1,1 @@
+sistema simples de gerenciamento de pessoas que permita o cadastro de indivíduos, a consulta de informações e a atualização de dados pessoais
