@@ -68,7 +68,7 @@ public class gerenciadorDePessoa {
 
          public void exibirPessoa2(){
             if(this.pessoa2 != null){
-                System.out.println("Dados da Pessoa 1:"); 
+                System.out.println("Dados da Pessoa 2:"); 
                 System.out.println(pessoa2.getNome()); 
                 System.out.println(pessoa2.getCpf()); 
                 System.out.println(pessoa2.getIdade()); 

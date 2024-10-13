@@ -7,11 +7,11 @@ public class main {
         gerenciadorDePessoa gerenciador = new gerenciadorDePessoa();
        
 
-        pessoa pessoa1 = new pessoa("Thiago", "143.256.989-00", 30);
+        pessoa pessoa1 = new pessoa("Amanda", "777.876.876-00", 30);
         gerenciador.cadastrarPessoa1(pessoa1);
 
         
-        pessoa pessoa2 = new pessoa("Romario", "124.232.333-00", 25);
+        pessoa pessoa2 = new pessoa("maria", "124.123.123-00", 25);
         gerenciador.cadastrarPessoa2(pessoa2);
 
         
@@ -19,7 +19,7 @@ public class main {
         gerenciador.exibirPessoa2();
 
         
-        pessoa novaPessoa1 = new pessoa("Alana Vitoria", "145.711.191-90", 31);
+        pessoa novaPessoa1 = new pessoa("charles gomes", "333.123.123-10", 31);
         gerenciador.atualizarPessoa1(novaPessoa1);
 
       
